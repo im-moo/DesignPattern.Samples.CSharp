@@ -1,0 +1,6 @@
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Visitor/bin/Debug/EDC.DesignPattern.Visitor.exe.config
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Visitor/bin/Debug/EDC.DesignPattern.Visitor.exe
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Visitor/bin/Debug/EDC.DesignPattern.Visitor.pdb
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Visitor/obj/Debug/EDC.DesignPattern.Visitor.csproj.CoreCompileInputs.cache
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Visitor/obj/Debug/EDC.DesignPattern.Visitor.exe
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Visitor/obj/Debug/EDC.DesignPattern.Visitor.pdb

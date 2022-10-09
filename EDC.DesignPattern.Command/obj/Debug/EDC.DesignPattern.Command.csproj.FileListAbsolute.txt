@@ -1,0 +1,6 @@
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Command/bin/Debug/EDC.DesignPattern.Command.exe.config
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Command/bin/Debug/EDC.DesignPattern.Command.exe
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Command/bin/Debug/EDC.DesignPattern.Command.pdb
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Command/obj/Debug/EDC.DesignPattern.Command.csproj.CoreCompileInputs.cache
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Command/obj/Debug/EDC.DesignPattern.Command.exe
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Command/obj/Debug/EDC.DesignPattern.Command.pdb

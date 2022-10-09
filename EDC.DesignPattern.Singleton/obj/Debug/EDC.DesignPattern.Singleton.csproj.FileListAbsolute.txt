@@ -1,0 +1,6 @@
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Singleton/bin/Debug/EDC.DesignPattern.Singleton.exe.config
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Singleton/bin/Debug/EDC.DesignPattern.Singleton.exe
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Singleton/bin/Debug/EDC.DesignPattern.Singleton.pdb
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Singleton/obj/Debug/EDC.DesignPattern.Singleton.csproj.CoreCompileInputs.cache
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Singleton/obj/Debug/EDC.DesignPattern.Singleton.exe
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Singleton/obj/Debug/EDC.DesignPattern.Singleton.pdb

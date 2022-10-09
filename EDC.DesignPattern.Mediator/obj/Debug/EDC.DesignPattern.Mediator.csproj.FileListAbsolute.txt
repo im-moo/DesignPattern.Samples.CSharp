@@ -1,0 +1,6 @@
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Mediator/bin/Debug/EDC.DesignPattern.Mediator.exe.config
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Mediator/bin/Debug/EDC.DesignPattern.Mediator.exe
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Mediator/bin/Debug/EDC.DesignPattern.Mediator.pdb
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Mediator/obj/Debug/EDC.DesignPattern.Mediator.csproj.CoreCompileInputs.cache
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Mediator/obj/Debug/EDC.DesignPattern.Mediator.exe
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Mediator/obj/Debug/EDC.DesignPattern.Mediator.pdb

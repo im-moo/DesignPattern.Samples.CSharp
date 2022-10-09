@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.Reflection;
 using EDC.DesignPattern.FactoryMethod.v1;
 using EDC.DesignPattern.FactoryMethod.v3;
+using EDC.DesignPattern.Builder;
 
 namespace EDC.DesignPattern.FactoryMethod
 {

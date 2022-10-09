@@ -1,0 +1,6 @@
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Flyweight/bin/Debug/EDC.DesignPattern.Flyweight.exe.config
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Flyweight/bin/Debug/EDC.DesignPattern.Flyweight.exe
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Flyweight/bin/Debug/EDC.DesignPattern.Flyweight.pdb
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Flyweight/obj/Debug/EDC.DesignPattern.Flyweight.csproj.CoreCompileInputs.cache
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Flyweight/obj/Debug/EDC.DesignPattern.Flyweight.exe
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Flyweight/obj/Debug/EDC.DesignPattern.Flyweight.pdb

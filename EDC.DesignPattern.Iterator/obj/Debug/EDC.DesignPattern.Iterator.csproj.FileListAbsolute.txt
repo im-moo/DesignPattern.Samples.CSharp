@@ -1,0 +1,6 @@
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Iterator/bin/Debug/EDC.DesignPattern.Iterator.exe.config
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Iterator/bin/Debug/EDC.DesignPattern.Iterator.exe
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Iterator/bin/Debug/EDC.DesignPattern.Iterator.pdb
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Iterator/obj/Debug/EDC.DesignPattern.Iterator.csproj.CoreCompileInputs.cache
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Iterator/obj/Debug/EDC.DesignPattern.Iterator.exe
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Iterator/obj/Debug/EDC.DesignPattern.Iterator.pdb

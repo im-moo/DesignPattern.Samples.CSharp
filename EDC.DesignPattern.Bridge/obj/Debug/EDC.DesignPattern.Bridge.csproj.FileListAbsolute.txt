@@ -1,0 +1,6 @@
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Bridge/bin/Debug/EDC.DesignPattern.Bridge.exe.config
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Bridge/bin/Debug/EDC.DesignPattern.Bridge.exe
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Bridge/bin/Debug/EDC.DesignPattern.Bridge.pdb
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Bridge/obj/Debug/EDC.DesignPattern.Bridge.csproj.CoreCompileInputs.cache
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Bridge/obj/Debug/EDC.DesignPattern.Bridge.exe
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.Bridge/obj/Debug/EDC.DesignPattern.Bridge.pdb

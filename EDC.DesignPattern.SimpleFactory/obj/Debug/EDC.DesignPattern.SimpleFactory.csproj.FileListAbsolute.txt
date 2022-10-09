@@ -1,0 +1,7 @@
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.SimpleFactory/bin/Debug/EDC.DesignPattern.SimpleFactory.exe.config
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.SimpleFactory/bin/Debug/EDC.DesignPattern.SimpleFactory.exe
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.SimpleFactory/bin/Debug/EDC.DesignPattern.SimpleFactory.pdb
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.SimpleFactory/obj/Debug/EDC.DesignPattern.SimpleFactory.csproj.AssemblyReference.cache
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.SimpleFactory/obj/Debug/EDC.DesignPattern.SimpleFactory.csproj.CoreCompileInputs.cache
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.SimpleFactory/obj/Debug/EDC.DesignPattern.SimpleFactory.exe
+/Users/mochengsheng/Documents/GitHub/DesignPattern.Samples.CSharp/EDC.DesignPattern.SimpleFactory/obj/Debug/EDC.DesignPattern.SimpleFactory.pdb
